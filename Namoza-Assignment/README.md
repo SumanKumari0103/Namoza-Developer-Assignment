@@ -33,9 +33,6 @@ Namoza-Assignment
 │
 ├── Task2
 │   ├── index.html
-│   ├── style.css
-│   ├── script.js
-│   └── thankyou.html
 │
 └── Task3
     └── integration.md
