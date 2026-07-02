@@ -33,10 +33,7 @@ Namoza-Assignment
 │
 ├── Task2
 │   ├── index.html
-│   ├── style.css
-│   ├── script.js
-│   └── thankyou.html
-│
+|
 └── Task3
     └── integration.md
 ```
@@ -85,7 +82,7 @@ Namoza-Assignment
 
 1. Download or clone the repository.
 2. Open the project in Visual Studio Code.
-3. Open `Task2/index.html` using Live Server.
+3. Open `Task2/inex.html` using Live Server.
 4. Test the booking form and GTM events.
 
 ---
